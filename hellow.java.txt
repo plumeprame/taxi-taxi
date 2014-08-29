@@ -1,3 +1,5 @@
-Class hellow{
-
+public Class hellow{
+	public static void main (String args[]){
+		
+	}
 }
